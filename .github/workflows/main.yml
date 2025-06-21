@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://Aditya9552:$HF_TOKEN@huggingface.co/spaces/Aditya9552/chat_with_multiple_pdfs_using_llm main
+        run: git push https://Aditya9552:$HF_TOKEN@huggingface.co/spaces/Aditya9552/chat_with_multiple_pdfs_using_llm main
