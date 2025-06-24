@@ -1,11 +1,6 @@
-title: Chat With Multiple Pdfs Using Llm
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-  - streamlit
-pinned: false
-short_description: Streamlit template space
-license: mit
+# Chat With Multiple Pdf files Using LLM Project
+This repository contains the code and data for interacting with multiple pdf files using gemini llm model.
+
+the project is deployed on huggingface space link:https://huggingface.co/spaces/Aditya9552/chat_with_multiple_pdfs_using_llm
+
+
